@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Information Services (IIS)
 - Install WebPlatform Installer
-- Install MySequel and configure Username / Password
+- Install MySQL and configure Username / Password
 - Install C++ Redistruputable
 - Configure permissions and install OSticket
 
