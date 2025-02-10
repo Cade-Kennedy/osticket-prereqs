@@ -23,9 +23,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Enable Internet Information Services (IIS)
-- Install WebPlatform Installer
-- Install MySQL and configure Username / Password
-- Install C++ Redistruputable
+- Install MySQL 
+- Download OSticket
+- Create database username / password
 - Configure permissions and install OSticket
 
 <h2>Installation Steps</h2>
