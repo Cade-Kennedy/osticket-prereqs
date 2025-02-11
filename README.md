@@ -33,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/PsHUdMo.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step of the proccess, we are going to be enabling IIS along with CGI. Which is required as a dependancy for OsTicket webserver. To locate these steps we will follow these steps. controlPanel/Programs/TurnWindowsFeaturesOnOrOff/InternetInformationServices. For the next step for enabling CGI follow these steps: World Wide Web Services -> Application Development Features -> [X] CGI
+
 </p>
 <br />
 
