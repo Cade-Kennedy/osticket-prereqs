@@ -42,7 +42,15 @@ In this step of the proccess, we are going to be enabling IIS along with CGI. Wh
 <img src="https://i.imgur.com/r5wZtBc.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next we are going to install and configure MYSQL. To do this follow these steps: (These are example steps, do not configure with similar username and password) 
+
+  From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+Typical Setup ->
+Launch Configuration Wizard (after install) ->
+Standard Configuration ->
+Username: root
+Password: root
+
 </p>
 <br />
 
@@ -50,6 +58,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/QWQkjk3.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lastly after the installation of IIS and configuration of MYSQL. You will be set up with a basic OsTicket layout. You can access OsTicket through a web browser and sign in with the details you created early. 
 </p>
 <br />
